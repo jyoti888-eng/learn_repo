@@ -1,0 +1,5 @@
+Hello welcome , lets learn about vcs and scm 
+vcm stands for version control system
+scm stands for source code management
+we use git for vcm 
+we use git hub for scm
