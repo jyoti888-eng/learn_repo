@@ -3,3 +3,4 @@ vcm stands for version control system
 scm stands for source code management
 we use git for vcm 
 we use git hub for scm
+git hub resides at remote location and git resides at local machine
